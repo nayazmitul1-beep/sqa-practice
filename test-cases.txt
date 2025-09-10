@@ -1,3 +1,4 @@
 Verify login with valid credentials
 Verify login with invalid password
 Verify logout button works correctly
+Verify user cannot access profile without logging in
